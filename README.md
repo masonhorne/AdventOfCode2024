@@ -7,6 +7,7 @@
 3. A **day[x]p2.py** file that contains my solution for part two of the given day.
 
 #### Note that all file expect to read input from the provided input file in each directory.
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/bd84ab49-7cd2-48ee-92a9-71d60764bb95" />
 
 Try out Advent of Code for yourself here!
 https://adventofcode.com/2024
